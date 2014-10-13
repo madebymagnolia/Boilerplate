@@ -6,10 +6,15 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        
         <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=320,initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        <meta name="apple-mobile-web-app-title" content="">
 
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width,height=device-height,user-scalable=no,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0">
+        <meta http-equiv="cleartype" content="on">
+
+        <link rel="shortcut icon" sizes="196x196" href="icon-196x196.png">
         <link rel="apple-touch-icon" href="touch-icon-iphone.png">
         <link rel="apple-touch-icon" sizes="76x76" href="touch-icon-ipad.png">
         <link rel="apple-touch-icon" sizes="120x120" href="touch-icon-iphone-retina.png">
